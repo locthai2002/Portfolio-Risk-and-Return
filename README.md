@@ -51,27 +51,27 @@ Here are some screenshots from running the application:
 
 ### Import the Data
 
-![Import the Data](images/import data.png)
+![Import the Data](images/importdata.png)
 
 ### Analyze the Performance
 
-![Analyze the Performance](images/analyze the performance.png)
+![Analyze the Performance](images/analyzetheperformance.png)
 
 ### Analyze the Volatility
 
-![Analyze the Volatility](images/analyze the volatility.png)
+![Analyze the Volatility](images/analyzethevolatility.png)
 
 ### Analyze the Risk
 
-![Analyze the Risk](images/analyze the risk.png)
+![Analyze the Risk](images/analyzetherisk.png)
 
 ### Analyze the Risk-Return Profile
 
-![Analyze the Risk-Return Profile](images/analyze the risk return.png)
+![Analyze the Risk-Return Profile](images/analyzetheriskreturn.png)
 
 ### Diversify the Portfolio
 
-![Diversify the Portfolio](images/diversify the portfolio.png)
+![Diversify the Portfolio](images/diversifytheportfolio.png)
 
 ---
 
